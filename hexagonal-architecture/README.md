@@ -19,7 +19,7 @@ me.seungwon.hexagonal
 │       └── persistence   # JPA, DB, 외부 시스템 연동
 │
 ├── config                 # 설정 (빈 등록 등)
-└── HexagonalApplication.java
+└── HexagonalArchitectureApplication.java
 
 ```
 
@@ -57,5 +57,5 @@ me.seungwon.hexagonal
 │           ├── UserJpaRepository.java
 │           └── UserPersistenceAdapter.java
 │ 
-└── HexagonalApplication.java
+└── HexagonalArchitectureApplication.java
 ```
